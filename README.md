@@ -5,6 +5,9 @@ sk-cp-ci7wMCIWzMmkymTp0VdexCloEVWjevQZ-OqJzHzpcMPfYMPbRWHUzP50_QbSREsD7UTszpw4O1
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 |
 
 
+https://github.com/astral-sh/uv/releases/latest/download/uv-x86_64-pc-windows-msvc.zip
+
+
  iex"
 
 
