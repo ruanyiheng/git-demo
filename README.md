@@ -37,6 +37,15 @@ try {
 
 
 
-
+C:\Users\2471197\IdeaProjects\DDMnew\cts-app\stc-stock我现在
+  要修改这个文件中的DetailChain.java和DetailChainServiceImpl.ja
+  va的相关代码，主要是在DetailChainServiceImpl.java这个文件的15
+  26到1540行之间detailChain.setIsKeyProduct(retailStruct.getIsT
+  argetData());这个方法内部的retailStruct.get
+    IsTargetData()不对我要改成从DDM_MDM_STC_ESTIMATE_PRODUCT这
+  个表中查询得到    productgroupcode这个字段然后再和下面的detai
+  lChain.setProductCode(detailChain.getProductCode());这里面的
+  得到的ProductCode比较，如果相同，setIsKeyProduct返回true，你
+  先分析一下怎么改然后出个方案给我
 
 
